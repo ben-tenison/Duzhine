@@ -180,7 +180,7 @@ function App() {
       </div>
 
     
-      <Slider {...settings}>
+      <Slider {...settings} className="slider">
         <div>
           <img src={img16}  />
         </div>
