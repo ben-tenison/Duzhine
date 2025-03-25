@@ -474,3 +474,8 @@ span:nth-child(2)::after {
   margin-top: 20vh;
   font-size: 20px;
 }
+.slider .slick-slide img {
+  height: 50vh; 
+  object-fit: cover; 
+  border-radius: 10px;
+}
